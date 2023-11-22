@@ -2660,11 +2660,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 8952550936916929530, guid: 184bf767f666f824d8be2508094d3d9a,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 184bf767f666f824d8be2508094d3d9a, type: 3}
 --- !u!1 &1350560345
 GameObject:
@@ -4487,7 +4483,7 @@ MonoBehaviour:
   _hidden: 0
   useRenderLods: 1
   _isLocal: 1
-  _loadUserFromCdn: 0
+  _loadUserFromCdn: 1
   _deferLoading: 0
   _assets:
   - source: 0
